@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "802725663459",
+    "firebase_url": "https://foodie-581e0.firebaseio.com",
+    "project_id": "foodie-581e0",
+    "storage_bucket": "foodie-581e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802725663459:android:f300519949c7f0be",
+        "android_client_info": {
+          "package_name": "com.moonlight.arunvenkatesh.fidu_parts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802725663459-lr0uhv0l3fi06egusl1gnubd8bl1lrss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moonlight.arunvenkatesh.fidu_parts",
+            "certificate_hash": "ce8d173aae2a3de57af8e9a777e36d780ce02b45"
+          }
+        },
+        {
+          "client_id": "802725663459-49hostskcubcl5ug6d4i87f4kn2keqtu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfgbd3-hjVXM-gWaQVB40C9XJiCJznqRY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802725663459-49hostskcubcl5ug6d4i87f4kn2keqtu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
